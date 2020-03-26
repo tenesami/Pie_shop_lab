@@ -14,6 +14,5 @@ namespace CSC237_tatomsa_lab2.Models
                 new Category{CategoryId=2, CategoryName="Cheese cakes", Description="Cheesy all the way"},
                 new Category{CategoryId=3, CategoryName="Seasonal pies", Description="Get in the mood for a seasonal pie"}
             };
-
     }
 }
